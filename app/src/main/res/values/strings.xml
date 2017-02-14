@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EssayQuiz</string>
+    <string name="jawab">Jawaban</string>
+    <string name="submit">SUBMIT</string>
+    <string name="prev">PREVIOUS</string>
+    <string name="next">NEXT</string>
+
+    <string name="pertama">Hari apa sesudah Hari Minggu, sebelum hari senin?</string>
+    <string name="kedua">Danau Rana terletak di?</string>
+    <string name="ketiga">Anak ayam turun 10, mati satu tinggal berapa?</string>
+</resources>
